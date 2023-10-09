@@ -1,0 +1,15 @@
+{
+  "name": "medact/wp-leaflet-search",
+  "description": "Add search script to WP Leaflet Maps",
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  },
+  "authors": [
+    {
+      "name": "BW",
+      "email": "benjaminwalpole@medact.org"
+    }
+  ],
+  "minimum-stability": "dev"
+}
